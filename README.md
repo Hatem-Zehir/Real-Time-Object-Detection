@@ -25,3 +25,5 @@ Alternatively, you can type:
 ```
 pip install opencv-python
 ```
+
+You can read more about the MobileNets method here: [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/pdf/1704.04861.pdf)
