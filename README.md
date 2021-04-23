@@ -9,5 +9,19 @@ Object detection is one of the most common areas of computer vision science toda
 - ssd_mobilenet_v3_large_coco_2020_01_14.pbtxt
 - frozen_inference_graph.pb
 
-## Required Libraries
-We need only one library: [OpenCV](https://opencv.org/)
+## Real-World Applications
+- Object Detection
+- Object Tracking
+- Object Classification
+- Autonomous Vehicles
+- Self-Driving Cars
+
+## Installation and Setup
+We must now verify that all of the program packages have been installed. Check to see if your computer has [OpenCV](https://opencv.org/) installed. If you are using Anaconda, you can type:
+```
+conda install -c conda-forge opencv
+```
+Alternatively, you can type:
+```
+pip install opencv-python
+```
